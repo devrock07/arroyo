@@ -128,7 +128,7 @@ async function generateImage() {
   removePaperStyles();
 
   if(isMobile) {
-    smoothlyScrollTo('#output');
+    smoothlyScrollTo('#');
   }
 }
 
